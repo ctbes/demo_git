@@ -1,6 +1,6 @@
 Trabajo final
 
-dias de la semana
+dias de la SEMANA
 Lunes
 Martes
 Miercoles
@@ -8,6 +8,4 @@ Jueves
 Viernes
 
 
-estaciones
-verano
-invierno
+
